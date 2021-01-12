@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BfXAAEMkpRnqfYAl9jb3XWNSJZOTl+RLb5dMAYT+i8FVf279LI/WHJnPuAqKRzoGcI+SNUd2jXD2OlYympOS+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cristian\\Documents\\Programação\\DIO-DECOLA AVANADE\\ProjetoPatterns\\DesignPatternSamples-main\\src\\Workbench.IFormatter.Extensions\\Workbench.IFormatter.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

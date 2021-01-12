@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Domain",
+    "\\src\\Domain\\bin",
+    "\\src\\Domain\\bin\\Debug",
+    "\\src\\Domain\\bin\\Debug\\netcoreapp3.1",
+    "\\src\\Domain\\bin\\Release",
+    "\\src\\Domain\\obj",
+    "\\src\\Domain\\obj\\Debug",
+    "\\src\\Domain\\obj\\Release"
+  ],
+  "SelectedNode": "\\src\\DesignPatternSamples.sln",
+  "PreviewInSolutionExplorer": false
+}

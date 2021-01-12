@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cKiDsiKABnN+9mMOaO+87id25ERAKb3GL1mthp5lcjy5mkmWb1ySi/Eaq9TnVg+1RIq1Zd424dcZu9DSLHm5/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cristian\\Documents\\Programação\\DIO-DECOLA AVANADE\\ProjetoPatterns\\DesignPatternSamples-main\\src\\Workbench.DependencyInjection.Extensions\\Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

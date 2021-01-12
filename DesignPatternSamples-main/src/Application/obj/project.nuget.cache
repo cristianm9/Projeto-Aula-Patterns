@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kz6OTUo/TveYMCSh3T1/bQSWVGEs4KZEup7smtr0iofURI3RrdkotwUGLPe3LVn3YX12kL8XbifCE3GT4hDtTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cristian\\Documents\\Programação\\DIO-DECOLA AVANADE\\ProjetoPatterns\\DesignPatternSamples-main\\src\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
